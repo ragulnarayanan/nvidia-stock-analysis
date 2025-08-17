@@ -1,9 +1,9 @@
-📊 NVIDIA Stock Analysis 
+# 📊 NVIDIA Stock Analysis 
 
 This repository contains the workflow, datasets, and analysis steps behind my NVIDIA Stock Analysis Site.
 The project applies data analytics, visualization, and technical analysis techniques to study NVIDIA’s stock journey and compare it with broader market indices like NASDAQ.
 
-🔍 Project Overview
+# 🔍 Project Overview
 
 Analyze NVIDIA’s historical stock performance (1999–2025).
 
@@ -15,7 +15,8 @@ Build visual dashboards using Tableau & Flourish.
 
 Publish findings in an academic portfolio site for public reference.
 
-🗂 Steps Followed
+# 🗂 Steps Followed
+
 1. Data Collection
 
    - Extracted historical daily price data (OHLC – Open, High, Low, Close) for NVIDIA and NASDAQ.
@@ -64,3 +65,17 @@ Publish findings in an academic portfolio site for public reference.
 
    Built and deployed the analysis on Google Sites:
          - NVIDIA Stock Analysis Site - https://sites.google.com/husky.neu.edu/nvidia-analysis
+
+
+# 📑 Key Findings
+
+NVIDIA delivered outsized yearly returns, often exceeding 100%+ in several years, compared to NASDAQ’s average ~10–30%.
+
+Golden Cross signals correlated strongly with NVIDIA’s bullish momentum.
+
+Despite high volatility, long-term investors were rewarded with exponential growth.
+
+# ⚠️ Disclaimer
+
+This project is for academic purposes only.
+It is not financial advice. Please consult a certified professional before making investment decisions.
