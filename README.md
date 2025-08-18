@@ -3,6 +3,8 @@
 This repository contains the workflow, datasets, and analysis steps behind my NVIDIA Stock Analysis Site.
 The project applies data analytics, visualization, and technical analysis techniques to study NVIDIA’s stock journey and compare it with broader market indices like NASDAQ.
 
+👉 [NVIDIA Stock Analysis Website](https://sites.google.com/husky.neu.edu/nvidia-analysis)
+
 # 🔍 Project Overview
 
 Analyze NVIDIA’s historical stock performance (1999–2025).
